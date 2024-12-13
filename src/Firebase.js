@@ -12,7 +12,7 @@ import { GoogleAuthProvider } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyCyJkzsqmZi0VtBE-hS9urV1dBVsX9-KJc",
+  apiKey: "xxxxxxxxxxxxxAPIxKEYxXEDxOUTxxxxxx",
   authDomain: "listfixer-60e65.firebaseapp.com",
   projectId: "listfixer-60e65",
   storageBucket: "listfixer-60e65.appspot.com",
